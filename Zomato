@@ -1,0 +1,15 @@
+In this project we qury the following request.
+#what is the toatl amunt each customer spent on zomato
+#how many days each customer visited zomato
+#first product purchsed by each customer
+#what are the most purchased item on menu and how many times was it purchase  by all customer
+#which of the item is most popular for each of the customers
+#which item was brougth 1st by a customer after become member
+#which item was purchased customer just before become a member
+#what is the total order and amount spent for  each member before they become member
+If buying each prodcut genrates zomoto point,  for example 5rs = 2points for example p1 5rs = 1point, p2 10rs = 5point , p3 = 5rs = 1point
+#Calculated the points collected by each customers and which product most points have benn given
+#In the first one year after customer joins the gold programs(including the join date) irrespective of what the customer has purchased they earn 5 zomoto pints fro every 10 rs sprnt who earned more 1 or 3 and
+#what was the pont earing in their 1st year
+# rank all transaction of customers
+# rank all the transaction for each member whenever they are a zomoto gold member for every non gold member transaction mark as na
